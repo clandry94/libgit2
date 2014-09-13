@@ -30,3 +30,5 @@ msvc/Release/
 *~
 tags
 mkmf.log
+CMakeCache.txt
+
